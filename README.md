@@ -1,2 +1,2 @@
 # practice-calculator-multiply-app
-Practice making calculator multiplication app, maven project. For two numbers multiplication only.
+Practice making multiplication calculator app, maven project. For two numbers multiplication only.
